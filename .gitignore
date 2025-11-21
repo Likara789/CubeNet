@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecode caches
+*.pyo
+*.pyd
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
